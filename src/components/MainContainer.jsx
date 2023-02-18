@@ -71,6 +71,10 @@ const MainContainer = () => {
             </div>
           </div>
         </section>
+        <div className="floater">
+          <button className="btn">Reset</button>
+          <button className="btn btn_">Publish</button>
+        </div>
         <footer className="portfolio-footer">
           <div className="grid">
             <div className="grid-content">

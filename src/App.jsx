@@ -4,10 +4,10 @@ import MainContainer from './components/MainContainer'
 
 function App() {
   return (
-    <>
+    <div className='main'>
       <Header />
       <MainContainer />
-    </>
+    </div>
   )
 }
 
